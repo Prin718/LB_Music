@@ -12,32 +12,32 @@
     "pyrogram"
     ],
     "env": {
-      "API_ID": {
+      "API_ID": {20054364
         "description": "Get this value from https://my.telegram.org",
         "value": "",
         "required": true
       },
-      "API_HASH": {
+      "API_HASH": {6a9a4fbda55762023c32133f76cbc1d1
         "description": "Get this value from https://my.telegram.org",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN": {
+      "BOT_TOKEN": {7345498103:AAEU3w0u9DpPuEunoUAm5DuXn2Zh0QjBACE
         "description": "A Bot's token from Botfather",
         "value": "",
         "required": true
       },
-      "MONGO_DB_URI": {
+      "MONGO_DB_URI": {mongodb+srv://sakarsandhya1987:<db_password>@cluster0.ikveo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
         "value": "",
         "required": true
       },
-      "OWNER_ID": {
+      "OWNER_ID": {6195331463
         "description": "The user id of user whom you would like to add as OWNER.",
         "value": "",
         "required": true
       },
-      "STRING_SESSION": {
+      "STRING_SESSION": {BQEyAVwAviCu29lju0PmKjeMGSNm4LRwcSBXTnZ18NE9qufm9m7XEi6XcYRewXshNtMV5h_4JwkLR5RlbxID0Ztm23RqjkK3QeN8gRW7a9U5wVbAPyBJBgH-hKHdiuwxo0GvAZdJwtRA2H9x_OrHHuJLP8Iiauv726NokpYOwRTDgcLvidTxfAO9J1KeJfsjl4ArpAZM9ejOfpScoehSFG91pY2Ug5sJvBkTvP03VyMe62TG8bUSmqXjidZYYtJ7LI4KUh6nUAxhEQqoUJW4J8Y-RPkFRKIMW9i6Hlq7BrfYMjoKklu_BUKAmYup1fo0Cz5VtrJMNaY5ENrSRQ_XHJgJtFPjKwAAAAB97NF6AA
         "description": "A Pyrogram v2 String Session from @BRANDEDSTRINGSESSION_BOT on Telegram.",
         "value": "",
         "required": true
@@ -62,7 +62,7 @@
         "value": "",
         "required": false
       }, 
-      "LOGGER_ID": {
+      "LOGGER_ID": {1002193486187
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Don't Add Channel's ID.",
         "value": "",
         "required": true
